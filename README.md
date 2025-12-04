@@ -1,14 +1,10 @@
-<img align="right" height="135" src="https://i.imgflip.com/ae12f4.gif"  />
-
-###
-
-<h6 align="left">Hello🌎!</h6>
+<h9 align="left">Hello🌎!</h9> <img align="center" height="135" src="https://i.imgflip.com/ae12f4.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
