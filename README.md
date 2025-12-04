@@ -24,3 +24,9 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/audreynunes7/audreynunes7/output/snake.svg" alt="Snake animation" />
+
+###
